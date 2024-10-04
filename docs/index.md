@@ -1,8 +1,7 @@
-# **Tech-Life-Handbook**
-
-![海南师范大学学校标识](https://raw.githubusercontent.com/siyio/HaiNNU-TechLife-Compass/master/img/HainnuPic.png)
 
 海南师范大学 信息科学技术学院 技术与生活学习指南
+![海南师范大学学校标识](https://raw.githubusercontent.com/siyio/HaiNNU-TechLife-Compass/master/img/HainnuPic.png)
+
 
 ## 指南简介
 
