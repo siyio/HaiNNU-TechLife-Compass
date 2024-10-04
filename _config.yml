@@ -1,8 +1,9 @@
 title: 技术与生活学习指南
 description: 海南师范大学 信息科学技术学院 技术与生活学习指南
 theme: just-the-docs
-
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 url: https://siyio.github.io/HaiNNU-TechLife-Compass
-
+nav_enabled: true
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
