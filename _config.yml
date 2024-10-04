@@ -4,6 +4,14 @@ theme: just-the-docs
 logo: "https://raw.githubusercontent.com/siyio/HaiNNU-TechLife-Compass/master/assets/images/logo.png"
 favicon_ico: "https://raw.githubusercontent.com/siyio/HaiNNU-TechLife-Compass/master/assets/images/favicon.ico"
 url: https://siyio.github.io/HaiNNU-TechLife-Compass
+# 主导航配置
+nav:
+  - title: "首页"
+    url: "/"
+  - title: "前言"
+    url: "/前言/"
+  - title: "网络安全"
+    url: "/网络安全/"
 nav_enabled: true
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
